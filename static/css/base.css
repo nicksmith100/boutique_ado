@@ -23,6 +23,10 @@ body {
     text-transform: uppercase;
 }
 
+#welcome-page {
+    margin-top: 200px;
+}
+
 .main-logo-link {
     width: fit-content;
 }
@@ -36,6 +40,10 @@ body {
 .btn-black {
     background: black;
     color: white;
+}
+
+.bg-black {
+    background: #000 !important;
 }
 
 .shop-now-button:hover,
